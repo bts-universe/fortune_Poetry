@@ -2035,7 +2035,7 @@ function initVisitorCount() {
 
     const badge = document.createElement('img');
     badge.className = 'visitor-count-badge';
-    badge.src = 'https://visitor-badge.laobi.icu/badge?page_id=bts-universe-fortune-cju.github-pages-reset-20261013&left_text=%20&left_color=%2314072A&right_color=%239C27B0';
+    badge.src = 'https://visitor-badge.laobi.icu/badge?page_id=bts-universe-fortune-cju.github-pages-reset-20261015&left_text=%20&left_color=%2314072A&right_color=%239C27B0';
     badge.alt = '瀏覽人數';
     badge.loading = 'eager';
     badge.referrerPolicy = 'no-referrer';
